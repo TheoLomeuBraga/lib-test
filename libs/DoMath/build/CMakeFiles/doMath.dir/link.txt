@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdoMath.a CMakeFiles/doMath.dir/src/domath.cpp.o
+/usr/bin/ranlib libdoMath.a
